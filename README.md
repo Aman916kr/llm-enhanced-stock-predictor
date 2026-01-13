@@ -8,29 +8,6 @@ This project implements a Transformer-based time series model to predict stock p
 
 Unlike traditional LSTM-based approaches, this system leverages Transformer encoders for improved long-term dependency modeling and LLM-based interpretability without relying on external APIs.
 
-# Architecture
-
-Historical Stock Prices
-
-        ↓
-
-Feature Scaling
-
-        ↓
-
-Transformer Encoder
-
-        ↓
-
-Price Prediction
-
-        ↓
-
-Evaluation (RMSE, MAE)
-
-        ↓
-
-LLaMA-3 Reasoning Layer
 
 # Tech Stack
 
