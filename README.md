@@ -58,6 +58,6 @@ HOLD
 
 # Key Features
 
-Transformer-based stock prediction (LSTM-free)
-Proper time-series evaluation (MSE, RMSE, MAE)
-Local LLaMA-3 reasoning (no API usage)
+Transformer-based stock prediction (LSTM-free), 
+Proper time-series evaluation (MSE, RMSE, MAE). 
+Local LLaMA-3 reasoning (no API usage).
