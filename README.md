@@ -11,36 +11,57 @@ Unlike traditional LSTM-based approaches, this system leverages Transformer enco
 # Architecture
 
 Historical Stock Prices
+
         ↓
+
 Feature Scaling
+
         ↓
+
 Transformer Encoder
+
         ↓
+
 Price Prediction
+
         ↓
+
 Evaluation (RMSE, MAE)
+
         ↓
+
 LLaMA-3 Reasoning Layer
 
 # Tech Stack
 
 Python
+
 PyTorch
+
 Transformer Encoder
+
 Yahoo Finance (yfinance)
+
 HuggingFace Transformers
+
 Meta LLaMA-3 (Local Inference)
 
 # Model Evaluation Results
+
 Metric	Value (Typical)
+
 MSE : 131.91419982910156
+
 RMSE: 11.485390712949279
+
 MAE : 10.575881958007812
 
 Results may vary slightly due to random initialization and data updates.
 
 # Sample Prediction Output
+
 Last Price: 249.292511
+
 Predicted Next Price: 253.31201
 
 # LLaMA-3 Reasoning Output (Demo)
@@ -59,5 +80,7 @@ HOLD
 # Key Features
 
 Transformer-based stock prediction (LSTM-free), 
+
 Proper time-series evaluation (MSE, RMSE, MAE). 
+
 Local LLaMA-3 reasoning (no API usage).
