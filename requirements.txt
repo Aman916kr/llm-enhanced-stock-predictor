@@ -1,0 +1,11 @@
+yfinance
+torch
+torchvision
+torchaudio
+scikit-learn
+matplotlib
+transformers
+accelerate
+bitsandbytes
+sentencepiece
+huggingface_hub
