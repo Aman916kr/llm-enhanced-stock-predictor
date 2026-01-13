@@ -1,1 +1,1 @@
-# Stock-prediction
+# llm-enhanced-stock-predictor
