@@ -56,7 +56,7 @@ Market volatility and macroeconomic uncertainty.
 Action:
 HOLD
 
-#Key Features
+# Key Features
 
 Transformer-based stock prediction (LSTM-free)
 Proper time-series evaluation (MSE, RMSE, MAE)
